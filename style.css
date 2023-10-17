@@ -1,3 +1,7 @@
+*{margin: 0;
+    padding: 0;
+}
+
 .card {
     width:320px;
     min-height: 460px;
@@ -36,16 +40,16 @@
     padding: 4px 8px;
 }
 .info {
-    padding: 8px;
+    padding: 14px;
     color: #2D3748;
 }
 .listing {
     background-color: rgba(45,55,72,0.67);
     color: white;
     padding: 4px 8px;
-    text-align: start;
     text-align: center;
     border-radius: 15px;
+    height: 220px;
 }
 .price {
     font-size: 24px;
@@ -60,14 +64,7 @@
     color: white;
 
 }
-.type {
-    font-size: 18px;
-    text-align: center;
-    background-color: #91754d;
-    padding: 4px 8px;
-    border-radius: 15px;
-    color: white;
-}
+
 .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
@@ -77,4 +74,103 @@ a {
 .card-area {
     display: flex;
     flex-wrap: wrap;
+}
+.card2 {
+    width:320px;
+    min-height: 460px;
+    border-bottom: 4px solid #5A5A5A;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 16px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 15px;
+    background-color: #91754d;
+}
+.card3 {
+    width:320px;
+    min-height: 460px;
+    border-bottom: 4px solid #5A5A5A;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 16px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 15px;
+    background-color: #A19D94;
+}
+.card4 {
+    width:320px;
+    min-height: 460px;
+    border-bottom: 4px solid #5A5A5A;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 16px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 15px;
+    background-color: #d4af37;
+}
+.card5 {
+    width:320px;
+    min-height: 460px;
+    border-bottom: 4px solid #5A5A5A;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 16px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 15px;
+    background-color: #b9f2ff;
+}
+.card6 {
+    width:320px;
+    min-height: 460px;
+    border-bottom: 4px solid #5A5A5A;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 16px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 15px;
+    background-color: #91754d;
+}
+.card7 {
+    width:320px;
+    min-height: 460px;
+    border-bottom: 4px solid #5A5A5A;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 16px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 15px;
+    background-color: #91754d;
+}
+.card8 {
+    width:320px;
+    min-height: 460px;
+    border-bottom: 4px solid #5A5A5A;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 16px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 15px;
+    background-color: #91754d;
+}
+.card9 {
+    width:320px;
+    min-height: 460px;
+    border-bottom: 4px solid #5A5A5A;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 16px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 15px;
+    background-color: #91754d;
+}
+.card10 {
+    width:320px;
+    min-height: 460px;
+    border-bottom: 4px solid #5A5A5A;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 16px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 15px;
+    background-color: #91754d;
 }
