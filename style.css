@@ -128,7 +128,7 @@ a {
     display: flex;
     flex-wrap: wrap;
     border-radius: 15px;
-    background-color: #91754d;
+    background-color: #373737;
 }
 .card7 {
     width:320px;
@@ -139,7 +139,7 @@ a {
     display: flex;
     flex-wrap: wrap;
     border-radius: 15px;
-    background-color: #91754d;
+    background-color: #50C878;
 }
 .card8 {
     width:320px;
@@ -150,7 +150,7 @@ a {
     display: flex;
     flex-wrap: wrap;
     border-radius: 15px;
-    background-color: #91754d;
+    background-color: #76552b;
 }
 .card9 {
     width:320px;
@@ -161,7 +161,7 @@ a {
     display: flex;
     flex-wrap: wrap;
     border-radius: 15px;
-    background-color: #91754d;
+    background-color: #3a322d;
 }
 .card10 {
     width:320px;
@@ -172,5 +172,32 @@ a {
     display: flex;
     flex-wrap: wrap;
     border-radius: 15px;
-    background-color: #91754d;
+    background-color: #884e45;
+}
+.card2:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+.card3:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+.card4:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+.card5:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+.card6:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+.card7:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+.card8:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+.card9:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+.card10:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 }
